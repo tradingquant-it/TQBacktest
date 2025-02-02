@@ -1,4 +1,4 @@
-# https://datatrading.info/ambiente-di-backtesting-even-driven-con-python-parte-vii/
+# https://tradingquant.it/ambiente-di-backtesting-even-driven-con-python-parte-vii/
 
 # performance.py
 

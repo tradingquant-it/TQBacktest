@@ -1,7 +1,7 @@
 # random_forecast.py
 
-# codice python relativo all'articolo presente su datatrading.info
-# https://datatrading.info/sviluppo-di-un-backtesting-vettoriale-con-python-e-pandas/
+# codice python relativo all'articolo presente su tradingquant.it
+# https://tradingquant.it/sviluppo-di-un-backtesting-vettoriale-con-python-e-pandas/
 
 import numpy as np
 import pandas as pd

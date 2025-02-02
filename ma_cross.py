@@ -1,6 +1,6 @@
 # ma_cross.py
 
-# codice python relativo all'articolo presente su datatrading.info
+# codice python relativo all'articolo presente su tradingquant.it
 
 import datetime
 import matplotlib.pyplot as plt
