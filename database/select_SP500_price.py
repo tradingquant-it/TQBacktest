@@ -1,5 +1,6 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+
+# codice python relativo al corso "LE BASI DEL TRADING ALGORITMICO CON PYTHON"
+# https://tradingquant.it/corsi/le-basi-del-trading-algoritmico-con-python/
 
 import pandas as pd
 import pandas.io.sql as psql

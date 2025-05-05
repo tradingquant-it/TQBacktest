@@ -1,7 +1,7 @@
 # snp_forecast.py
 
-# codice python relativo all'articolo presente su tradingquant.it
-# https://tradingquant.it/strategia-di-forecasting-sul-sp500-backtesting-con-python-e-pandas/
+# codice python relativo all'articolo presente su datatrading.info
+# https://datatrading.info/strategia-di-forecasting-sul-sp500-backtesting-con-python-e-pandas/
 
 import datetime
 import matplotlib.pyplot as plt

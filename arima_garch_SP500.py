@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 # arima_garch_SP500.py
 
-# codice python relativo all'articolo presente su tradingquant.it
-# https://tradingquant.it/strategia-di-trading-sullindice-sp500-con-i-modelli-arima-e-garch/
+# codice python relativo all'articolo presente su datatrading.info
+# https://datatrading.info/strategia-di-trading-sullindice-sp500-con-i-modelli-arima-e-garch/
 
 import yfinance as yf
 import pandas as pd

@@ -1,7 +1,7 @@
 # backtest.py
 
-# codice python relativo all'articolo presente su tradingquant.it
-# https://tradingquant.it/sviluppo-di-un-backtesting-vettoriale-con-python-e-pandas/
+# codice python relativo al corso "LE BASI DEL TRADING ALGORITMICO CON PYTHON"
+# https://tradingquant.it/corsi/le-basi-del-trading-algoritmico-con-python/
 
 from abc import ABCMeta, abstractmethod
 

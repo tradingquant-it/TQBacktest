@@ -1,6 +1,7 @@
-# https://tradingquant.it/ambiente-di-backtesting-even-driven-con-python-parte-vii/
-
 # performance.py
+
+# codice python relativo al corso "LE BASI DEL TRADING ALGORITMICO CON PYTHON"
+# https://tradingquant.it/corsi/le-basi-del-trading-algoritmico-con-python/
 
 import numpy as np
 import pandas as pd

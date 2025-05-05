@@ -1,6 +1,9 @@
-# https://tradingquant.it/value-at-risk-var-per-il-risk-management-nel-trading-algoritmico/
 
-# var.py
+# codice python relativo al corso
+# "GESTIONE DEL RISCHIO NEL TRADINGG"
+
+# https://tradingquant.it/corsi/gestione-del-rischio-nel-trading/
+
 
 import datetime
 import numpy as np

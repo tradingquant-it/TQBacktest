@@ -1,4 +1,7 @@
 
+# codice python relativo al corso "LE BASI DEL TRADING ALGORITMICO CON PYTHON"
+# https://tradingquant.it/corsi/le-basi-del-trading-algoritmico-con-python/
+
 import urllib.parse as urlparse
 import os, datetime
 

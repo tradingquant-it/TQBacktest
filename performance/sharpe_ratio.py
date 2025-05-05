@@ -1,4 +1,8 @@
-# https://tradingquant.it/sharpe-ratio-per-la-misura-delle-prestazioni-del-trading-algoritmico/
+
+
+# codice python relativo al corso "VALUTARE LE PERFORMANCE DI UNA STRATEGIA DI TRADING"
+# https://tradingquant.it/corsi/valutare-le-performance-di-una-strategia-di-trading/
+
 
 import datetime
 import numpy as np

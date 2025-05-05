@@ -1,5 +1,6 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+
+# codice python relativo al corso "LE BASI DEL TRADING ALGORITMICO CON PYTHON"
+# https://tradingquant.it/corsi/le-basi-del-trading-algoritmico-con-python/
 
 """
 Per ottenere i dati storici degli attuali titoli che compongono l'S&P500, dobbiamo prima

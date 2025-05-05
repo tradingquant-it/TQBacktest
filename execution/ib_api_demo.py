@@ -1,6 +1,7 @@
-# https://tradingquant.it/come-creare-un-account-demo-su-interactive-brokers/
-
 # ib_api_demo.py
+
+# codice python relativo al corso "LE BASI DEL TRADING ALGORITMICO CON PYTHON"
+# https://tradingquant.it/corsi/le-basi-del-trading-algoritmico-con-python/
 
 from ib.ext.Contract import Contract
 from ib.ext.Order import Order
